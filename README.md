@@ -49,10 +49,22 @@ Clone the project
 ```bash
 https://github.com/SheershBhatnagar/Todo-List-App---Flutter
 ```
-Open Android Studio/VS Code
-Open Project
+
+```bash
+Open the Android Studio/VS Code
+```
+
+```bash
+Open the project
+```
+
+```bash
 Select your preferred device
+```
+
+```bash
 Run the app
+```
 
 
 ## :warning: License
