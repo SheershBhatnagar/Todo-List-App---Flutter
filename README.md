@@ -1,16 +1,18 @@
-# Todo App in flutter
+<div align='center'>
 
-A new Flutter project.
+<h1>Todo List App - Flutter</h1>
+<h4> <span> · </span> <a href="https://github.com/SheershBhatnagar/Todo-List-App---Flutter /blob/master/README.md"> Documentation </a> <span> · </span> <a href="https://github.com/SheershBhatnagar/Todo-List-App---Flutter /issues"> Report Bug </a> <span> · </span> <a href="https://github.com/SheershBhatnagar/Todo-List-App---Flutter /issues"> Request Feature </a> </h4>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+</div>
 
-A few resources to get you started if this is your first Flutter project:
+# :notebook_with_decorative_cover: Table of Contents
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [About the Project](#star2-about-the-project)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## :star2: About the Project
+
+### :dart: Features
+- Add a task
+- Remove a task
