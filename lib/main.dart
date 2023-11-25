@@ -1,3 +1,4 @@
+
 import 'package:flutter/material.dart';
 
 void main() {
@@ -123,6 +124,7 @@ class TodoListState extends State<TodoList> {
         if(index < _todoItems.length) {
           return _buildTodoItem(_todoItems[index], index);
         }
+        return null;
       },
     );
   }
